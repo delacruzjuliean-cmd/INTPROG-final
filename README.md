@@ -1,2 +1,2 @@
 # INTPROG-final
-*[Laboratory 1 - JSON](https://drive.google.com/drive/folders/1KoZj4kEB_mMgE3f3-opu56Tw-R6yHaRS?usp=drive_link)
+*[Laboratory 1 - JSON](https://drive.google.com/drive/folders/10zKa6CVFPP4l0l_WlK7ONy5MdJ3qptxy?usp=drive_link)
